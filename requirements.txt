@@ -56,7 +56,7 @@ tensorflow-estimator==2.2.0
 termcolor==1.1.0
 urllib3==1.25.8
 vine==1.3.0
-waitress==1.4.3
+waitress==2.1.1
 Werkzeug==1.0.0
 wrapt==1.12.1
 xgboost==0.90
